@@ -4,7 +4,7 @@
  * */
 #include <stdio.h>
 
-#define PRINTX printf("%d\n", x);
+#define PRINTX printf("%d\n", x)
 
 int
 main(void)
